@@ -1,0 +1,12 @@
+html
+<head>
+ <title>My site</title>
+ <Link rel="stylesheet"
+href="style.css">
+</head>
+
+css
+body{
+ background-color:#fofofo; 
+ font-family:Arial ;
+}
