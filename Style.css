@@ -8,5 +8,33 @@ href="style.css">
 css
 body{
  background-color:#fofofo; 
- font-family:Arial ;
+ font-family:Arial;
+}
+
+
+css
+body {
+  background-color:#fofofo;
+  font-family:Arial,
+sans-serif;
+ text-align:center;
+ padding:3 0px;
+}
+
+h1 {
+  color:#3 3 3;
+}
+
+button {
+  padding:1 0px 2 0px;
+  background-color:#0 0 7bff;
+  color:white;
+  border:none;
+  border-radius; 5px;
+  font-size:1 6px;
+}
+
+img {
+  border-radius:1 0px;
+  margin-top:2 0px;
 }
